@@ -23,11 +23,12 @@ layout: default
     </div>
   </header>
 
+  <!-- posts in categories -->
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
 	      {% for tag in site.tags %}
- 		 <h3>{{ tag[0] }}</h3>
+ 		 <h3>Kategorie: {{ tag[0] }}</h3>
 		  <ul>
   		  {% for post in tag[1] %}
 		  <li><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</li>
@@ -38,6 +39,7 @@ layout: default
     </div>
   </div>
 
+ <!-- posts in a list
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
@@ -80,3 +82,4 @@ layout: default
       </div>
     </div>
   </div>
+-->
