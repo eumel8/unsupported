@@ -30,7 +30,7 @@ layout: default
  		 <h3>{{ tag[0] }}</h3>
 		  <ul>
   		  {% for post in tag[1] %}
-		  <li><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"></li>
+		  <li><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</li>
    		 {% endfor %}
 		  </ul>
 		{% endfor %}
