@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Immobilienmakler
 subtitle: "Immobilienmakler sind unsupported. All jene, die 2000 - 3000 Euro fuer die Vermittlung einer Mietwohnung kassieren wollen, und sich dann nicht mal bei einem Interessenten melden. Bei einem Arbeitsaufwand von 30 Minuten fuer Inserat schreiben, Termin&hellip;"

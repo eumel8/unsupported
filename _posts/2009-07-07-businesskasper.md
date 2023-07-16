@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Businesskasper
 subtitle: "Selbstanzeige: Businesskasper sind ja prinzipiell immer noch unsupportednn nnhttp://www.youtube.com/watch?v=MavllwOuVI0"

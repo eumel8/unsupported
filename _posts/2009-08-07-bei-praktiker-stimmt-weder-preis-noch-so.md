@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Bei Praktiker stimmt weder Preis noch sonstwas
 subtitle: "Das wird wieder mal ein Hochgesang auf den Einzelhandel und Kundenumgang im besonderen. nRenovierungsarbeiten stehen an und so war der Erwerb einer Abdeckplane fuer Moebel von Noeten. Der Praktiker-Baumarkt liegt auf dem Nachhauseweg also schnell&hellip;"

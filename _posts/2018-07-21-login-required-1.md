@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Login Required
 subtitle: "Sie müssen sich einloggen, bevor Sie auf diesen Bereich zugreifen können."

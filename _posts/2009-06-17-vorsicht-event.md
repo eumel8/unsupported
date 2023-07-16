@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Vorsicht! Event!
 subtitle: "Da ist gerade wieder mal Chase-Lauf in Frankfurt. Richtig heisst es jetzt "J.P. Morgan Corporate Challenge".  Groesster Lauf der Welt, 69.000 Teilnehmer von Firmen aus Rhein-Main auf einer Laenge von 5,6 km. Monatelang vorbereitet, Frankfurter&hellip;"

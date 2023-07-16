@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Ein Elektroauto, schnell!
 subtitle: "Die Klimadiskussion nimmt dramatische Zuege an. Koennen wir ueberhaupt noch atmen? Der Weltuntergang steht kurz bevor. Der Meeresspiegel steigt um 2,9 mm im Jahr. Da die Bahn nicht wirklich eine Transportalternative ist und es auch sogenannte Flugscham&hellip;"

@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Internet - Frueher - unsupported
 subtitle: "Unlaengst fragte ich mich: Wie war das eigentlich damals vor DSL-Zeiten mit dieser Internet-Einwahl? Also DFUE-Netzwerk/Windows 95 und wie war das mit diesen Providern`germany.net ist eh klar, Metronet? Nacamar?"

@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Do you need a envelope?
 subtitle: "Erschuetternde Szenen haben sich unlaengst an der Rezeption einer britischen Hotelkette in Deutschland abgespielt. Der Beruf der Hotelfachfrau bzw. des Hotelfachmanns gehoert danach voellig neu bewertet: Konversation mit dem Gast, respektive Kunden.&hellip;"

@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Fahrradfahrer ohne Licht
 subtitle: "Fahrradfahrer ohne Licht sind unsupported, weil es einfach lebensgefaehrlich ist, unbeleuchtet auf dunkler Strasse rumzufahren und sich und andere dabei zu gefaehrden."

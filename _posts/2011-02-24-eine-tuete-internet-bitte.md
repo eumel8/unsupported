@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Eine Tüte Internet, bitte!
 subtitle: "Wij zijn op vacantie - wir sind wieder mal im Urlaub. Zwar ist der Ferienpark vollständig mit WLAN ausgestattet und für 24,95 Euro kann man via KPN eine Woche lang surfen. Aber man/frau ist ja auch Smartphone-Besitzer und so will man auch draussen in&hellip;"

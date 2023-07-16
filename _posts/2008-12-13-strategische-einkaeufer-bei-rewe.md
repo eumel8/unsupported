@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Strategische Einkaeufer bei REWE
 subtitle: "Diese Berufsbezeichnung gibts wirklich. Aber es kann mit dem Anspruch nicht weit her sein.  nMitte August die Gaenge mit Weihnachtsstollen vollstellen und dann eine Woche vor Weihnachten nicht mal mehr eine Sorte Stollen anbieten koennen. Frechheit!"

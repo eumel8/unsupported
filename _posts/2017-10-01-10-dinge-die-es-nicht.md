@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: 10 Dinge die es nicht mehr gibt
 subtitle: "Angeblich leben wir in einer Ueberflussgesellschaft. Der goldene Westen brachte uns Konsum in die gekanntem Ausmass. Ist dem wirklich so? Es gibt immer wieder mal Produkte des taeglichen Lebens, die ploetzlich nicht mehr zu haben sind. Hier eine Liste."

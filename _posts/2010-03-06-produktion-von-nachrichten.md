@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Produktion von Nachrichten (Fernsehen unsupported)
 subtitle: "Unlaengst wurde der Planet durch eine Reihe von Naturereignissen erschuettert. In Chile war Erdbeben und sogenannte Tsunamis brubbeln durchs Meer und bedrohen weit benachbarte Kuestenregionen mit Ueberschwemmung. Beim Erdbeben von Chile kommt westwaerts&hellip;"

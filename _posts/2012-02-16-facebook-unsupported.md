@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: facebook unsupported
 subtitle: "Erst im Ausland wird man dessen erst richtig bewusst: Facebook ist immer und ueberall. Die global-soziale Vernetzung scheint geglueckt. Selbst die Kirche in Galway hat eine eigene Facebook-Seite: http://www.facebook.com/stnicholasgalway Neben den&hellip;"

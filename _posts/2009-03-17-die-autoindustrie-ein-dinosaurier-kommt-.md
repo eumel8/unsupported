@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Die Autoindustrie - ein Dinosaurier kommt unter die Raeder
 subtitle: "Ein grosses Jammern und Wehklagen befiel Anfang des Jahres die Automobilindustrie. Ich bin nicht ganz Zielgruppe dieses Industriezweiges, da ich mir weder dieses Jahr, noch letztes und noch vorvorletztes Jahr ein neues Auto gekauft habe&hellip;"

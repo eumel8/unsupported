@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Bankenkrise Live!
 subtitle: "Commerzbank Inhaber Aktien (als sie noch im zweistelligen Eurobereich gehandelt wurden):nn nnUeber vierzig tausend milliarden gehandelte Aktien an einem Boersentag bringt jede Statistik durchnander."

@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Access Denied
 subtitle: "Sie sind kein Mitglied dieser Sammlung, deswegen dürfen Sie nicht darauf zugreifen."

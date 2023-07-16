@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: BIOS Usability
 subtitle: "Die Bedienbarkeit von Basic Input Output System Personal Computer, also kurz BIOS, hat sich in den letzten Jahren trotz Web 2.0 und Ajax nicht signifikant verbessert. Da sehen die Computer aussen noch so toll aus, blinken futuristisch und die&hellip;"

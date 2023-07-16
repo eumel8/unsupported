@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: eCash unsupported
 subtitle: "Es war einmal ein Land, da brauchte man gar kein Bargeld mehr. Alles, immer und ueberall konnte man Waren und Dienstleistungen mit der Vorzeigung von einer kleinen Plastikkarte bezahlen. Niemand musste mehr an sogenannten Geldautomaten anstehen und zu&hellip;"

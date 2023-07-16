@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Offenlegen von Nebeneinkuenften
 subtitle: ""Ein Hotel ist ein Beherbergungs- und Verpflegungsbetrieb für Gäste gegen Bezahlung." So stehts bei Wikipedia. In letzter Zeit konnte ich aber feststellen, dass mitnichten die Vermietung von Zimmern die Haupteinnahmequelle von Hotelbetrieben ist.&hellip;"

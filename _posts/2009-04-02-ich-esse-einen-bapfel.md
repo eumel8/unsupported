@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Ich esse einen Bapfel
 subtitle: "In der Marketing-Kampagne 5-am-Tag hat die deutsche Lebensmittelhandelskette REWE jetzt auch schon festgestellt, dass eigentlich gar nicht so viel Zeit uebrig ist, um 5 verschiedene Sorten Obst und Gemuese jeden Tag zu essen. Deswegen wurde jetzt der&hellip;"

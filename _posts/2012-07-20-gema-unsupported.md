@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: GEMA - unsupported
 subtitle: "Die Gesellschaft fuer musikalische Auffuehrungs- und mechanische Vervielfaeltigungsrechte kennt ja wohl jeder. Also zumindest jeder Youtube-Nutzer, der statt seines Lieblingsmusikvideos aus den 80ern den coolen Spruch liest:nDieses Video ist in Deutsch&hellip;"

@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Universal Mobile Telecommunications System
 subtitle: "UMTS - der letzte Schrei der Datenkommunikation im Internet. Das "Ueberall-Internet" wird es oft genannt. Ueberall? Mitnichten. Sehr oft schleppt man dieses schnufflige Teil hier mit sich:nn nnEs wird an einen USB-Port eines Laptops angeschlossen,&hellip;"

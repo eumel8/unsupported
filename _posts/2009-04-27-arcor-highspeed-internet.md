@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: unweb
 title: High Speed Internet mit Arcor DSL
 subtitle: "Systemcheck Arcor-Video-OnDemand (VOD):nn nnBei einer Geschwindigkeit von 0 kbit/sec ist der Download am 20.07.2075 fertig (wahrscheinlich durch Biterosion). Schad nur, dass Arcor-VOD am 01.07.2009 eingestellt wird."

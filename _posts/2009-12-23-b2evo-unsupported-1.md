@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: b2evo unsupported
 subtitle: "b2evolution 2.2.7 is unsupported - version 3.3.3 rules.nWe make an update and add the captcha-plugin against the comment spam bots.  2009/12/23"

@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: default
 tag: main
 title: Help content
 subtitle: "### Email preferences You can see and change all your email subscriptions and notifications coming from this site by clicking here ### Managing your personal information You can see and correct the personal details we know about you by clicking here ###&hellip;"
