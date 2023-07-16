@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Verkehrspolizist gesucht
 subtitle: "Ein weithin fremdes Wesen auf Deutschen Strassen ist heutzutage der Deutsche Verkehrspolizist.  nErst unlaengst machten an einem Samstag netliche hundert Polizeiautos einen Ausflug nach Frankfurt, um dann im Korso durch die Stadt zu fahren. Der Grund&hellip;"
 date: 2009-04-02

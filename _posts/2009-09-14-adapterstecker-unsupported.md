@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Adapterstecker unsupported
 subtitle: "Allzu viele Steckersysteme fuer Strom gibt es auf der Welt ja nicht. Vielleicht 5 oder 10 verschiedene, wenn man nur die sogenannte Haushaltselektrik betrachtet. Die Verorgungsspannung liegt bei 220-250 V Wechselstrom und 110 V Gleichstrom. Die Frequenz&hellip;"
 date: 2009-09-14

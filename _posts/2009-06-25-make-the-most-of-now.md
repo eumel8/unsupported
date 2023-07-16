@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: make the most of now
 subtitle: "Vodafone Muenchen Spezialn nnNicht unbedingt unsupported. Die Bayern haben es einfach gut."
 date: 2009-06-25

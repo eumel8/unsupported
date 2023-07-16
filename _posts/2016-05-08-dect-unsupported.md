@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: DECT - unsupported
 subtitle: "Ich gebe es ja zu, DECT habe ich erst vor einem knappen Jahr entdeckt. Es kam mit der Frage auf, wie ich das neue IP-Telefon-Mobilteil bzw. dessen Basisstation mit der Welt verbinde. Antwort: gar nicht. Also nicht mehr im wirklichen Sinne ueber Kabel&hellip;"
 date: 2016-05-08

@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: unweb
 title: post_title
 subtitle: "post_excerpt"
 date: post_datecreated

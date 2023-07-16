@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Businesskasper
 subtitle: "Selbstanzeige: Businesskasper sind ja prinzipiell immer noch unsupportednn nnhttp://www.youtube.com/watch?v=MavllwOuVI0"
 date: 2009-07-07

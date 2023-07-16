@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Dieses Video ist in Deutschland leider nicht verfuegbar
 subtitle: "Wer manchmal etwas laenger auf Youtube rumstoebert, findet manchmal wahre Schaetze. Fuer mich sind das zum einen Klavierstuecke, die von dem einen oder anderen unbekannten Kuenstler vorgetragen werden. Und zum anderen lassen sich uralte Musikvideos&hellip;"
 date: 2011-12-17

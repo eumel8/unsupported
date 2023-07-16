@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Login Required
 subtitle: "Sie müssen sich einloggen, bevor Sie auf diesen Bereich zugreifen können."
 date: 2018-07-21

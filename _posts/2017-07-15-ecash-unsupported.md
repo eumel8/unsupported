@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: eCash unsupported
 subtitle: "Es war einmal ein Land, da brauchte man gar kein Bargeld mehr. Alles, immer und ueberall konnte man Waren und Dienstleistungen mit der Vorzeigung von einer kleinen Plastikkarte bezahlen. Niemand musste mehr an sogenannten Geldautomaten anstehen und zu&hellip;"
 date: 2017-07-15
@@ -17,7 +17,7 @@ Im Einzelhandel und im Personennahverkehr gibt es sie aber noch, die Bastion des
 Neuester Schrei ist dann eine Handy-App, die auch Fahrkarten verkauft (praktischerweise ueber die Handyrechnung). In Deutschland brauch man natuerlich eine App mit einem Account pro Verkehrsverbund. Ich kriege heute noch SMS vom RMV, weil die im Handyticket hiterlegte Kreditkarte nicht mehr gueltig ist. DIe Handyapp von BVG und VBB ist besonders "clever": vertrauter Umgang auf dem Samsung Galaxy und dem Lumia. Bezahlfunktion in der Windows-Variante: Fehlanzeige! Das wurde nur fuer Android und IOS entwickelt.
 Das Aushaengeschild zwischen Energydrink und entlaufener Katze ist das Sinnbild unserer Gesellschaft:
  
-<img src="/unsupported/media/quick-uploads/p596/wp_20170713_12_37_57_rich.jpg"/>
+<img src="/unsupported/media/quick-uploads/p596/wp_20170713_12_37_57_rich.jpg" width="585" height="386"/>
 
 EC-Karten-Zahlung erst ab 2 Euro. Meist ist das DOS-Kassensystem noch mit einem 1200-Baud-Modem verbunden und so dauert es 5 Minuten, bis der Zahlungsvorgang authorisiert ist. Vielleicht nimmt man die Wartezeit aber in Kauf, denn der Geldautomat der PSD-Bank um die Ecke ist eine boese Kostenfalle: 8,50 Euro Gebuehren fallen dort fuer eine Bargeldabhebung an. Hallo? Mir ist zwar klar, dass jemand in den Automaten Geld reintun muss und das Geraet auch gekauft werden muss und auch Strom kostet. Aber trotzdem muss ich ja nicht Teilhaber des Unternehmens werden, nur weil ich bischen Geld dort abheben will. 
 

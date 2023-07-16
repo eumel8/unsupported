@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: unsupported prelude
 subtitle: "Ein paar Tage Schonfrist waren uns vergoennt, aber die nicht unterstuetzten Verhaltensweisen gehen 2009 schon weiter. Nicht mehr unterstuetzt werdennnSimultanuebersetzer (sog. Dolmetscher),nndie ihr Handwerk nicht verstehen. Ein solcher war im Einsatz&hellip;"
 date: 2009-01-26

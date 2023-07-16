@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Forever young? Unsupported!
 subtitle: "...diese ganze Pop-Musik-Clique aus dem 80ern? Zeit fuer eine Retrospektive.nNik Kershaw (The Riddle, Wouldn't it be good, Status: alive. Hat erst 2012 eine neue Platte rausgebracht: Ei8ht, was seine 8.Platte in 29 Jahren ist.nKim Wilde (Kids in Ameri&hellip;"
 date: 2013-05-08

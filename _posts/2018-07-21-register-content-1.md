@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Register content
 subtitle: "The information you provide in this form will be recorded in your user account. You will be able to modify it (or even close your account) at any time after logging in with your username and password. Should you forget your password, you will be able to&hellip;"
 date: 2018-07-21

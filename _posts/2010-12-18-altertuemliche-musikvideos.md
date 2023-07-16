@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Altertuemliche Musikvideos
 subtitle: " nAuch neuerdings unsupported"
 date: 2010-12-18

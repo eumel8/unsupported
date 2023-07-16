@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: "Eigentlich hatten Sie gar nicht vor, ein neues Auto zu kaufen."
 subtitle: "Seit einiger Zeit stellt sich schon die Frage: Wohin mit all dem Geld bzw. haelt die Abwrackpraemie was sie verspricht bzw. bauen wir ein neues Wirtschaftswunder durch Zukauf neuer Konsumprodukten? nAuf der Oberurseler IAA und eigentlich auch schon&hellip;"
 date: 2009-07-19

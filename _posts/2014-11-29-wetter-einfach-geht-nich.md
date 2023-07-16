@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Wetter, einfach. Geht nich!
 subtitle: "Lang schon nichts mehr ins Blog geschrieben. Gibts keine nicht mehr unterstuetzte Verhaltensweise und Zustaende nicht mehr? Mitnichten!"
 date: 2014-11-29

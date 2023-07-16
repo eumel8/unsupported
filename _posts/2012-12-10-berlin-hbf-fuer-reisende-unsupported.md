@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Berlin Hbf - fuer Reisende unsupported
 subtitle: "Heute widme ich einen Artikel mal einem ganz besonderem Bauwerk, dem Berliner Hauptbahnhof.  Er wurde 2006 erbaut, wurde 2007 zum Grossstadtbahnhof des Jahres praemiert und soll angeblich 300.000 Passagiere pro Tag befoerdern. Dazu hat er sage und schre&hellip;"
 date: 2012-12-10

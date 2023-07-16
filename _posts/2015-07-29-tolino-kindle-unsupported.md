@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Tolino Kindle unsupported?
 subtitle: "Unlaengst stellte sich das Problem, dass man sich mit der Anschaffung des Tolino den Amazon Marktplatz als Kaufplattform fuer eBooks verwehrt hat, weil dieser nur elektronische Buecher im hauseigenen Kindle-Format anbietet. Klar, warum hat man nicht&hellip;"
 date: 2015-07-29

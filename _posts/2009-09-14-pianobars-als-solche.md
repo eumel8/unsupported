@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Pianobars als solche
 subtitle: "Was erwartet man von einer Pianobar? Das Klaviermusik gespielt wird? Coole Sache. Nicht bei Sopranos Pianobar. Dort wird man nur mit RAP-Musik von der Konserve betreufelt. Das grenzt schon an akustische Umweltverschmutzung. Weitere Warnhinweise auf&hellip;"
 date: 2009-09-14

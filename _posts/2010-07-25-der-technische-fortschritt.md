@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Der technische Fortschritt
 subtitle: "Wer heutzutage eine krisensichere Beschaeftigung ohne die Gefahr des Burnout-Symdroms sucht, dem sei der Beruf des Fahrradhaendlers empfohlen. Fahrradhaendler wirken auf mich immer wie die lebendige Verkoerperung des ZEN-Buddhismus, die in einer&hellip;"
 date: 2010-07-25

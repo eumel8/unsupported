@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Shamtu Shampoo
 subtitle: "Der Erwerb eines sensationellen Konsumprodukts ist mir heute im Gross-Einzelhandel gelungen:nn nnEin Haarwaschmittel was reinigt!  (sog. Shampoo) nEs ist ein Reinigungs-Shampoo, was Haare strahlend sauber waescht. Wahnsinn!  nEs enthaelt Ananas &amp;&hellip;"
 date: 2009-09-14

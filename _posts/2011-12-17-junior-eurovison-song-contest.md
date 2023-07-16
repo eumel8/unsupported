@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Junior Eurovison Song Contest
 subtitle: "In Deutschland unsupportet: Junior Eurovision Song Contestn "
 date: 2011-12-17

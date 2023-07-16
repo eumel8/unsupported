@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: jammer, jammer, jammer
 subtitle: "Die grundlegende Tugend des deutschen Menschen ist ja das Jammern. Wann und wo immer es geht, hat er immer was zu jammern. Paradebeispiel schlechthin: Stuttgart 21 - jahrelang geplant, getueftelt und ueberlegt, bis der Entwurf soweit feststeht, dass&hellip;"
 date: 2011-12-06

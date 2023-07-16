@@ -1,6 +1,6 @@
 ---
-layout: post
-tag: de
+layout: work
+tag: main
 title: Das Einfamilienhaus - unsupported
 subtitle: "Kuerzlich schreckte mich ein Artikel ueber das Alptraumhaus im Gruenen auf. Es ging um den extrem hohen Leerstand von freistehenden Einfamilienhaeusern in Cuxhaven-Altenwalde. Wenn man bei maps.google.de erst nachgucken muss, wo das liegt, ist das siche&hellip;"
 date: 2012-11-11
