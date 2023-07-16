@@ -1,0 +1,5 @@
+_plugins
+_site
+Gemfile.lock
+.sass-cache
+*.tgz

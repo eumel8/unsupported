@@ -1,0 +1,17 @@
+---
+layout: post
+tag: de
+title: GEMA - unsupported
+subtitle: "Die Gesellschaft fuer musikalische Auffuehrungs- und mechanische Vervielfaeltigungsrechte kennt ja wohl jeder. Also zumindest jeder Youtube-Nutzer, der statt seines Lieblingsmusikvideos aus den 80ern den coolen Spruch liest:nDieses Video ist in Deutsch&hellip;"
+date: 2012-07-20
+author: eumel8
+---
+
+<p>Die Gesellschaft fuer musikalische Auffuehrungs- und mechanische Vervielfaeltigungsrechte kennt ja wohl jeder. Also zumindest jeder Youtube-Nutzer, der statt seines Lieblingsmusikvideos aus den 80ern den coolen Spruch liest:</p>
+<h1 class="evo_post_title">Dieses Video ist in Deutschland leider nicht verfuegbar</h1>
+<p>Ursache ist ein Rechtsstreit zwischen GEMA und Youtube, weil sich Google weigert, 0,006 Euro pro abgerufenes Video an die GEMA zu bezahlen. Nicht so, weil sie es sich nicht leisten koennen, sondern einfach aus Prinzip.  Seit dem sind diese Videos in Deutschland nicht mehr verfuegbar. Ein Stueck Kultur ist verlorengegangen.</p>
+<p>Nach der letzten Tarifreform bedeutet jetzt fuer manch andere Erdenbuerger das nicht nur das Untergang des Abendlandes sondern ihrer Existenz. Diskothekenbesitzer wettern, weil 10 % des Eintrittspreises an die GEMA abgefuehrt werden sollen. Auf der Webseite www.gema.de gibt es da so lustige Bestellformulare zum Erwerb der Lizenz zum Abspielen von Musik. Wenn ich ein 100 qm grosses Tanzlokal habe und 5 Euro Eintritt verlange, sind 50 Euro GEMA-Gebuehren faellig + Mehrwertsteuer, weil ich hab ja mit 100 Leuten 500 Euro eingenommen. Ja okay, das Verhaeltnis von Flaeche zu Kunden muss ja nicht immer stimmen, aber das muss ja die GEMA nicht interessieren. Wenn ich meinen Tanzladen nicht voll bekomme, bin ich ja auch bischen selber dran schuld ;-)</p>
+<p>Ein anderer Fall ist das Anbieten von Musik auf der eigenen privaten Homepage - sei es als Hintergrundmusik a la Richard Claydermann oder etwa eine Fanpage von Santana mit einem Gitarren-Riff-Sound (die Tonleiter ist uebrigens kostenlos, denn das ist Gemeingut). Auch wenn man gar nicht weiss, ob Carlos Santana bei der GEMA Mitglied ist, kann man sich mit einem <span style="text-decoration: line-through;">Ablass</span> Monatstarif von 3,83 Euro <span style="text-decoration: line-through;">freikau</span> Lizenz erwerben.</p>
+<p>Die GEMA ist uebrigens selbstlos taetig. Alle eingenommenen Gebuehren werden vollstaendig an die Kuenstler ausgeschuettet. Im Jahr 2011 waren das 702,3 Mio Euro. Eingenommen hat man zwar 825,5 Mio Euro, aber es sind auch 65 Mio Euro Personalkosten und fast so viel Sachkosten aufgelaufen. Bei der GEMA sind knapp 1000 Mitarbeiter beschaeftigt. Macht ein durchschnittliches Jahreseinkommen von 60.000 Euro fuer jeden incl. Pensionen. Mit diesem Personal verwaltet man 65.000 Mitglieder.</p>
+<p>In anderen Teilen des Geschaeftsberichts bejammert man den allgemeinen Rueckgang im Verkauf von Tontraegern. Ich muss mich an der Stelle auch mit als schuldig bekennen. CDs habe ich schon ewig nicht mehr gekauft. Im Gegenteil, die Regalreihen haben sich gelichtet. Die Musik wohnt auf einer schicken WD-Multimedia-Festplatte, fuer die ich 9 Euro an die GEMA gezahlt habe, und die CDs landen im Muell. Geld kriege ich dafuer nicht wieder</p>
+<div class="image_block"><a href="/blogs/media/blogs/blog/IMAG0334.jpg?mtime=1342819715"><img style="float: right;" src="/blogs/media/blogs/blog/IMAG0334.jpg?mtime=1342819715" alt="" width="380" height="630" /></a></div>

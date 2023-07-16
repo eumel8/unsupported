@@ -1,0 +1,29 @@
+title: unsupported
+email: eumel@eumel.de
+
+baseurl: "/unsupported"
+background: '/images/background.png'
+url: "https://eumel8.github.io"
+twitter_username: eumel_8
+github_username: eumel8
+
+markdown: kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+remote_theme: jekyll-theme-clean-blog
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
