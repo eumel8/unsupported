@@ -2,7 +2,7 @@
 layout: default
 tag: main
 title: Feiern, unsupported
-subtitle: "Was mir noch unlaengst aufgefallen ist: Wir haben verlernt zu feiern. Und das sind jetzt nicht die Geburtstage im Familienkreis oder Weihnachten. Es sind die grossen und gesellschaftlichen Ereignisse, von denen wir dieses Jahr genug zu feiern gehabt&hellip;"
+subtitle: "Was mir noch unlaengst aufgefallen ist: Wir haben verlernt zu feiern. Und das sind jetzt nicht die Geburtstage im Familienkreis oder Weihnachten. Es sind die grossen und gesellschaftlichen Ereignisse, von denen wir dieses Jahr genug zu feiern gehabt haetten"
 date: 2019-11-15
 author: eumel8
 ---
