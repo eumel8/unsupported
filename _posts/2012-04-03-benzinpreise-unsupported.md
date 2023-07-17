@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Benzinpreise - unsupported
 subtitle: "Kaum ein anderes Konsumprodukt wechselt so oft den Preis am Tag wie der Liter Super bleifrei an der Tankstelle.  Skurril ist auch, dass die dritte Nachkommastelle mit herkoemlichen Zahlungsmitteln gar nicht bezahlt werden koennte (z.B. 1,639 Euro). Ich&hellip;"

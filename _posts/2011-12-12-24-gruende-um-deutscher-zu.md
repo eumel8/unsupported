@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: 24 Gruende, um Deutscher zu werden
 subtitle: "http://www.z24.nl/economie/artikel_250162.z24/24_redenen_om_Duitser_te_worden.html Deutschland kann sich bald auf einen kleinen Bevoelkerungszuwachs einstellen, denn Hollaender zu sein, ist neuerdings auch unsupported, wie der Artikel oben beschreibt.&hellip;"

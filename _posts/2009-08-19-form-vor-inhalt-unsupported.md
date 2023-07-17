@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Form vor Inhalt (unsupported)
 subtitle: "Natuerlich sollten fuer bestimmte Sachen wie ein Aufsatz oder eine Webseite die aeussere Form stimmen. Oefters wird allerdings mehr Wert gelegt auf aeussere Form als auf Inhalt. Dazu zaehlt zum Beispiel das Schwarze Brett vom Internet, wo peinlichst&hellip;"

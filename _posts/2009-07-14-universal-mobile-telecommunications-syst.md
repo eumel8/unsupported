@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Universal Mobile Telecommunications System
-subtitle: "UMTS - der letzte Schrei der Datenkommunikation im Internet. Das "Ueberall-Internet" wird es oft genannt. Ueberall? Mitnichten. Sehr oft schleppt man dieses schnufflige Teil hier mit sich:nn nnEs wird an einen USB-Port eines Laptops angeschlossen,&hellip;"
+subtitle: "UMTS - der letzte Schrei der Datenkommunikation im Internet. Das Ueberall-Internet wird es oft genannt. Ueberall? Mitnichten. Sehr oft schleppt man dieses schnufflige Teil hier mit sich:nn nnEs wird an einen USB-Port eines Laptops angeschlossen"
 date: 2009-07-14
 author: eumel8
 ---

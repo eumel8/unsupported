@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Altertuemliche Musikvideos
 subtitle: " nAuch neuerdings unsupported"

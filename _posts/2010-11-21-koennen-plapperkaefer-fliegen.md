@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Können Plapperkäfer fliegen?
 subtitle: "Seit einiger Zeit besuche ich Veranstaltungen zum Thema Cloud Computing. Cloud Computing ist, falls es jemand tatsaechlich noch nicht wissen sollte, ein Hype, der vor 1-2 Jahren begann und noch mindestens 5 Jahre anhalten wird. Ganze Industriezweige&hellip;"

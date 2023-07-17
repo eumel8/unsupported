@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Atomenergie - unsupported
 subtitle: "Atomenergie ist neuerdings auch unsupported.  Okay, beim Schreiben des ersten Satzes faellt mir sofort die Doppeldeutigkeit der Ueberschrift ein, denn die Geschichte kam erst durch ein Erdbeben ins Rollen ... schon wieder diese Doppeldeutigkeit. Aber&hellip;"

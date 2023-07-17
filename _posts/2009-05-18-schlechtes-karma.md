@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Schlechtes Karma
 subtitle: "In Bad Homburg wurde auf Wunsch der Amtsinhaberin die Oberbuergermeister-Wahl 2009 auf einen anderen Termin gelegt als die Europawahl 2009 im Juni, weil bei Europawahlen die Wahlbeteiligung so niedrig ist.nnErgebnis:nn nnDie Amtsinhaberin verliert nDie&hellip;"

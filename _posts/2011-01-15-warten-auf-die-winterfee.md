@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Warten auf die Winterfee
 subtitle: "November 2010: Ploetzlich und unerwartet bekommen wir zum Monatsende Damenbesuch. Tief Katharina kommt locker flockig deswegs, kleidet sich bevorzugt in Weiss und laesst sich nicht abwimmeln. Im Gegenteil, sie breitet sich raumgreifend aus, richtet sich&hellip;"

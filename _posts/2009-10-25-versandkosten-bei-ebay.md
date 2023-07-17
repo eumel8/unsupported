@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Versandkosten bei Ebay
 subtitle: "Aufgrund von diversen Umzugsaktivitaeten ist man in juengster Zeit gezwungen, sich von allerlei Tand zu trennen. Hinzu kommt die Aufloesung meiner VHS-Kassetten-Sammlung und die Veraeusserung diverser CDs, weil sie sich nach mehrmaligen Hoeren als&hellip;"

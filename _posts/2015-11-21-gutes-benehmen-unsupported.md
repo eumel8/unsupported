@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Gutes Benehmen - unsupported (Tokio Story)
 subtitle: "Unlaengst war ich in Tokio, teils beruflich - teils privat. Dass es dort ein bischen anders wuerde, war mir schon klar. Aber was genau? Erstmal die unglaubliche Zahl vom 9 Millionen Einwohnern. Das ist mal so die halbe Einwohnerzahl der DDR - alle in&hellip;"

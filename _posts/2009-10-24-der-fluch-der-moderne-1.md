@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Der Fluch der Moderne
 subtitle: "Frueher war alles anders - da lebte man im Hier und Jetzt. Das war so in den 70ern und 80ern. Ganz frueher natuerlich auch! Im Mittelalter. Da hatte man seine eigene Kapelle auf der Burg oder Leute musizierten sich selbst etwas zu Hause mit dem Spinett.&hellip;"

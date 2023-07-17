@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 tag: unweb
 title: Arcor - Ihr Internetportal
-subtitle: "... jetzt auch international! Bislang gab es nur deutschsprachigen Content und Benutzerfuehrung unter www.arcor.de, der Webseite der Arcor AG &amp; Co. KG, die jetzt unter "Arcor - Ihr Internetportal" firmiert. Unter Abschaltung einiger laestiger&hellip;"
+subtitle: "... jetzt auch international! Bislang gab es nur deutschsprachigen Content und Benutzerfuehrung unter www.arcor.de, der Webseite der Arcor AG &amp; Co. KG, die jetzt unter Arcor - Ihr Internetportal firmiert. "
 date: 2009-08-31
 author: eumel8
 ---

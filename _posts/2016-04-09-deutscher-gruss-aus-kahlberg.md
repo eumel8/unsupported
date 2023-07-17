@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Deutscher Gruss aus Kahlberg
 subtitle: "Neulich waren wir in Polen. Im Urlaub. Wir sind extra nicht 05:45 Uhr losgefahren. Die Strecke bis ins ehemalige Ostpreussen ist trotzdem ganz schoen weit. Die Hauptstadt hiess dort damals Koenigsberg und ist heute ein politisches Paradoxum. Als Exklave&hellip;"

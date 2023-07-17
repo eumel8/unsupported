@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Junior Eurovison Song Contest
 subtitle: "In Deutschland unsupportet: Junior Eurovision Song Contestn "

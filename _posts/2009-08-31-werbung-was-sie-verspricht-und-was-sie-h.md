@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: unweb
 title: Werbung - was sie verspricht. Und was sie haelt.
 subtitle: "Ein etwas aelteres Szenario als es in Deutschland sowas wie eine Finanzkrise gab:"

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: no support unsupported
 subtitle: "Nachrichten aus den Nachbarlaendern erreichen uns hoechst selten. Wir sind viel zu viel mit uns selbst beschaeftigt."

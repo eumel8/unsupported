@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: unweb
 title: Ein Bild sagt mehr als 1.000 Worte
 subtitle: "Das Arcor Fotoalbum wurde kuerzlich gerelauncht, wie es neudeutsch heisst. Man kann auch sagen: neu gemacht. nViel Neuerungen kann ich als Poweruser zwar nicht entdecken, aber in einer letzten Optimierungsphase ist jetzt bloss noch die Werbung zu sehen&hellip;"

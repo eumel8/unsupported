@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: unweb
 title: Unsupported Web
 subtitle: "Die Finanzkrise zieht immer groessere Kreise. Neuerdings sind auch Teile des Internets nicht mehr erreichbar und werden durch diesen Lemming ersetzt:nn nnGewisse Aehnlichkeiten mit dem Verkehrszeichen 206 - Halt! Vorfahrt gewaehren sind bis auf den&hellip;"

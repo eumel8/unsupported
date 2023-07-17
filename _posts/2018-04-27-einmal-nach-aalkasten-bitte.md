@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Einmal nach Aalkasten, bitte
 subtitle: "Eigentlich bedaure ich ja die potentiellen Fahrgaeste im Nahverkehr, die sich in einer Schlange am Fahrkartenautomaten anstellen, um ein gueltiges Reisedokument fuer S-Bahn, U-Bahn oder Bus zu erwerben. Die Automaten bieten dann, natuerlich&hellip;"

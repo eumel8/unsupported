@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tag: main
 title: Babbelfische
 subtitle: "Babbelfische sind unsupported. Das hatte ich ja unlaengst schon hier kundgetan. Die ganzen Kegelklubteilnehmer in Sauna-Ruheraeumen und jetzt auch in Regalgaengen im Supermarkt sind nicht zu unterstuetzen. Trefft Euch doch an der Kegelbahn oder der&hellip;"
