@@ -18,11 +18,11 @@ Die Reise dorthin fuehrt von Berlin ueber die ehemalige <a href="https://de.wiki
 </p>
 <p>
 Aber was ist das:
-<img src="/unsupported/media/quick-uploads/p563/polen.png" width="585" height="386"/>
+<img src="/media/quick-uploads/p563/polen.png" width="585" height="386"/>
 Danzig? Marienburg? Bromberg? Stettin? Was will uns Google damit sagen? Staedtenamen koennen das ja nicht sein. Vielleicht Sehenswuerdigkeiten? Doch, es sind Staedenamen. Von frueher. Teilweise seit vielen hundert Jahren wie in Danzig, <strong>seit etlichen Jahrzehnten aber ebend nicht mehr</strong>. 
 Heute sieht es hingegen so aus:
 <p>
-<img src="/unsupported/media/quick-uploads/p563/polen_streetview.png" width="585" height="386"/>
+<img src="/media/quick-uploads/p563/polen_streetview.png" width="585" height="386"/>
 </p>
 <p>
 Die Stadt heisst Gdansk und nicht Danzig. Marienburg haben wir auf unserer Reiseroute ewig gesucht. Stattdessen waren wir in einer Stadt namens Marbork. Kostrzyn - Kuestrin. Die Liste liesse sich beliebig fortsetzen. Es gibt sogar eine <a href="https://de.wikipedia.org/wiki/Liste_deutscher_Bezeichnungen_polnischer_Orte">Liste bei WIkipedia</a>. Bei der Deutschen Bahn AG fahren heute auch noch Zuege nach Breslau und Krakau statt Wrozlaw und Krakow. Was soll das? Was will man damit bezwecken? Hegt man noch Besitzansprueche an diese Gebiete? Kann ja eigentlich nicht sein. Mit dem <a href="http://www.auswaertiges-amt.de/cae/servlet/contentblob/373160/publicationFile/153338/ZweiPlusVierVertrag.pdf">2+4 Vertrag</a> wurden 1990 saemtliche Besitzansprueche als abgegolten und die bestehenden Grenzen als verbindlich erklaert. 1991 wurde der <a href="http://www.auswaertiges-amt.de/cae/servlet/contentblob/334466/publicationFile/3304/Nachbarschaftsvertrag.pdf">Nachbarschaftsvertrag Deutschland - Polen</a> unterzeichnet, in dem es in Artikel 1 heisst:
@@ -36,7 +36,7 @@ Gehoert es zum Geist guter Nachbarschaft, sich in die inneren Angelegenheiten an
 <p>
 Polen gedeiht derweilen praechtig:
 
-<img src="/unsupported/media/quick-uploads/p563/bip_polen.png" width="585" height="386"/>
+<img src="/media/quick-uploads/p563/bip_polen.png" width="585" height="386"/>
 
 In den letzten beiden Jahren erreichte es Wachstumsraten ueber 3%. Da koennen wir oder unsere anderen Nachbarlaender nur von traeumen. Wenn man sich vor Ort umschaut, wird ueberall gebaut, es entstehen schmucke Einfamilienhaeuschen mit schicken Zaeunen drumrum. Die Strassen sind in Ordnung, Internet ist ueberall verfuegbar. Wunderschoene Landschaften. Lokale Koestlichkeiten. Polen geht einfach seinen Weg.
 </p>
