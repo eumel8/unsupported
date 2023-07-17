@@ -46,65 +46,67 @@ select blog_name,blog_ID from evo_blogs;
 Das ergibt dann eine Liste mit Namen und Id. Abgespeichert sind ie Blogbeitraege nach Kategorien. Ich benutze davon nicht allzuviele. Bislang gab es immer die Kategorie `main`. Aber wir können die Kategorie in Jekyll als `Tag` uebernehmen. Die Markdown Dateien haben alle einen Kopf, der mit einer Templatesprache verarbeitet wird. Dieses Script liest die Blogposts aus der Datenbank und erstellt Markdown Dateien daraus:
 
 <details>
-```bash
-#!/bin/bash
+  <summary>migration.sh</summary>
 
-imagepath="/unsupported/media"
-blogdb="DBblog"
-blogid=6
-
-OIFS="$IFS"
-IFS=$'\n'
-oset="$-"
-set -f
-while IFS=$'\t' read -a cats; do
-    unset IFS
-    catname=${cats[0]}
-    catidfull=${cats[1]}
-    catid=$(echo $catidfull | sed 's/[^0-9]*//g')
-    if [ ! -z $catid ]; then
-        OIFS="$IFS"
-        IFS=$'\n'
-        oset="$-"
-        set -f
-        while IFS=$'\t' read -a post; do
-            unset IFS
-            datearray=(${post[2]})
-            work="work.md"
-            markdown="${datearray[0]}-${post[0]}.md"
-            rm -f $markdown
-            echo "---" >$work
-            echo "layout: post" >>$work
-            echo "tag: $catname" >>$work
-            echo "title: ${post[1]}" >>$work
-            echo "subtitle: \"${post[3]}\"" >>$work
-            echo "date: ${datearray[0]}" >>$work
-            echo "author: eumel8" >>$work
-            echo "---" >>$work
-            echo "" >>$work
-            echo ${post[4]} >>$work
-            sed -i 's/\rn/\n/g' $work
-            while IFS= read -r post; do
-                if [[ $post = [image:* ]]; then
-                    tmp=${post#*:}
-                    c=${tmp%]*}
-                    b=$(echo $c | sed 's/[^0-9]*//g')
-                    image=$(mysql $blogdb -e "select ef.file_path from evo_files ef, evo_links el where ef.file_ID=el.link_file_ID and el.link_ID=$b")
-                    imagearray=(${image})
-                    echo "<img src=\"${imagepath}/${imagearray[1]}\" width=\"585\" height=\"386\"/>" >>$markdown
-                elif [[ $post = [teaserbreak* ]]; then
-                    echo "<br/>" >>$markdown
-                else
-                    echo "$post" >>$markdown
-                fi
-            done <"$work"
-        done < <(mysql ${blogdb} -e "select post_urltitle,post_title,post_datecreated,post_excerpt, post_content from evo_items__item where post_main_cat_ID=$catid;")
-        rm -f $work
-    fi
-done < <(mysql ${blogdb} -e "select cat_name,cat_ID from evo_categories where cat_blog_ID=$blogid;")
-
-```
+  ```bash
+  #!/bin/bash
+  
+  imagepath="/unsupported/media"
+  blogdb="DBblog"
+  blogid=6
+  
+  OIFS="$IFS"
+  IFS=$'\n'
+  oset="$-"
+  set -f
+  while IFS=$'\t' read -a cats; do
+      unset IFS
+      catname=${cats[0]}
+      catidfull=${cats[1]}
+      catid=$(echo $catidfull | sed 's/[^0-9]*//g')
+      if [ ! -z $catid ]; then
+          OIFS="$IFS"
+          IFS=$'\n'
+          oset="$-"
+          set -f
+          while IFS=$'\t' read -a post; do
+              unset IFS
+              datearray=(${post[2]})
+              work="work.md"
+              markdown="${datearray[0]}-${post[0]}.md"
+              rm -f $markdown
+              echo "---" >$work
+              echo "layout: post" >>$work
+              echo "tag: $catname" >>$work
+              echo "title: ${post[1]}" >>$work
+              echo "subtitle: \"${post[3]}\"" >>$work
+              echo "date: ${datearray[0]}" >>$work
+              echo "author: eumel8" >>$work
+              echo "---" >>$work
+              echo "" >>$work
+              echo ${post[4]} >>$work
+              sed -i 's/\rn/\n/g' $work
+              while IFS= read -r post; do
+                  if [[ $post = [image:* ]]; then
+                      tmp=${post#*:}
+                      c=${tmp%]*}
+                      b=$(echo $c | sed 's/[^0-9]*//g')
+                      image=$(mysql $blogdb -e "select ef.file_path from evo_files ef, evo_links el where ef.file_ID=el.link_file_ID and el.link_ID=$b")
+                      imagearray=(${image})
+                      echo "<img src=\"${imagepath}/${imagearray[1]}\" width=\"585\" height=\"386\"/>" >>$markdown
+                  elif [[ $post = [teaserbreak* ]]; then
+                      echo "<br/>" >>$markdown
+                  else
+                      echo "$post" >>$markdown
+                  fi
+              done <"$work"
+          done < <(mysql ${blogdb} -e "select post_urltitle,post_title,post_datecreated,post_excerpt, post_content from evo_items__item where post_main_cat_ID=$catid;")
+          rm -f $work
+      fi
+  done < <(mysql ${blogdb} -e "select cat_name,cat_ID from evo_categories where cat_blog_ID=$blogid;")
+  ```
 </details>
+
 
 `imagepath` sollte man noch anpassen, ebenso die `blogdb` und `blogid`, aber im Grossen und Ganzen sollte man eine ansehnliche Liste von Markdown Dateien erstellt haben. Ob diese syntaktisch korrekt sind, kann man in Jekyll sofort ueberpruefen, wenn diese Dateien im `_posts` Ordner liegen und Jekyll die Dateien rendern kann. Etwaige Fehler wie Sonderzeichen werden ausgegeben und koennen manuell oder maschinell korrigiert werden, indem man das Script etwas anpasst.
 
