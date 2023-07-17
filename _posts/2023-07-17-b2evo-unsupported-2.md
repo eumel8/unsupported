@@ -109,3 +109,16 @@ done < <(mysql ${blogdb} -e "select cat_name,cat_ID from evo_categories where ca
 `imagepath` sollte man noch anpassen, ebenso die `blogdb` und `blogid`, aber im Grossen und Ganzen sollte man eine ansehnliche Liste von Markdown Dateien erstellt haben. Ob diese syntaktisch korrekt sind, kann man in Jekyll sofort ueberpruefen, wenn diese Dateien im `_posts` Ordner liegen und Jekyll die Dateien rendern kann. Etwaige Fehler wie Sonderzeichen werden ausgegeben und koennen manuell oder maschinell korrigiert werden, indem man das Script etwas anpasst.
 
 # Extras
+
+## Themes
+
+Unser Blog brauch natuerlich auch ein Theme. Jekyll bietet da eine [reiche Auswahl](https://jekyllrb.com/docs/themes/), jedoch unterstuetzt Github Pages nur eine [Auswahl](https://pages.github.com/themes/). Behelfen kann man sich vielleicht mit einem schoenen Hintergrundbild von [Canva](https://www.canva.com/templates/?query=wallpaper). Mit eine Probe-Pro-Abo hat man Zugriff auf tausende Vorlagen.
+
+## Suche
+
+Im alte Blog gab es auch ein Suchmodul. Jetzt koennte man meinen, ein statischer Webseitengenerator kann sowas nicht. Weit gefehlt! Man muss sich nur etwas mit der Script-Sprache im Jekyll auseinandersetzen und mit etwas Javascript kann man eine erstaunlich gute Suchmaschine implementieren, beschrieben etwa [hier](https://blog.webjeda.com/instant-jekyll-search/) und als Beispiel mit Programmcode [hier](https://github.com/christian-fei/Simple-Jekyll-Search).
+
+## Statistik/Logs
+
+Logfiles gibt es bei Github Pages nicht zum Auswerten und auch Jekyll bietet sowas von Hause aus nicht an. Aber es gibt auch hier [Projekte wie Open-Web-Analytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics). Dazu muss man in die `_includes/footer.html` einen Tracking-Code hinzufuegen, der jeden Seitenaufruf an den OWA Server puscht. Das Problem ist, dass dieser auch wieder PHP und MySQL benoetigt und wer sich im Zuge der Migration von LAMP trennen will, verwendet vielleicht besser [Google Analytics](https://analytics.google.com)
+
