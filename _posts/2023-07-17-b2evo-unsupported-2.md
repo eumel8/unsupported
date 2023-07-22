@@ -17,7 +17,11 @@ Es war mehr so eine Hassliebe all die Jahre, b2evolution und ich. 2007/2008 habe
 bundle exec jekyll serve -H 0.0.0.0
 ```
 
-aus. Dazu bedarf es einer Datei `_config.yml` und `Gemfile` mit der zusaetzliche RubyGems geladen werden können. Mit dem Kommando `bundle install` werden diese installiert. 
+aus. Dazu bedarf es einer Datei `_config.yml` und `Gemfile` mit der zusaetzliche RubyGems geladen werden können. Mit dem Kommando `bundle install` werden diese installiert. Voraussetzungen:
+
+```bash
+apt install ruby ruby-bundler ruby-dev make gcc g++
+```
 
 # Github Pages
 
