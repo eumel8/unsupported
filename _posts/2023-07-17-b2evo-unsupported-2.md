@@ -124,3 +124,46 @@ Im alte Blog gab es auch ein Suchmodul. Jetzt koennte man meinen, ein statischer
 
 Logfiles gibt es bei Github Pages nicht zum Auswerten und auch Jekyll bietet sowas von Hause aus nicht an. Aber es gibt auch hier [Projekte wie Open-Web-Analytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics). Dazu muss man in die `_includes/footer.html` einen Tracking-Code hinzufuegen, der jeden Seitenaufruf an den OWA Server puscht. Das Problem ist, dass dieser auch wieder PHP und MySQL benoetigt und wer sich im Zuge der Migration von LAMP trennen will, verwendet vielleicht besser [Google Analytics](https://analytics.google.com)
 
+## Tote Links
+
+Es bleibt nicht aus, dass bei der Migration etwas auf der Strecke bleibt. Tote Links zu externen Seiten. Oder falsch verlinkte Bilder.
+In der Github Pages Pipeline gibt es einen Link Checker. Den kann man auch lokal verwenden, wenn man [dieser Anleitung](https://danielsieger.com/blog/2021/03/28/check-broken-links-jekyll.html) folgt. 
+
+Man erweitern sein Gemfile mit
+
+```
+# link checker
+gem "html-proofer"
+gem "webrick"
+gem "rake"
+```
+
+Macht danach ein
+
+```bash
+bundle install
+```
+
+Erstellt ein Rakefile mit
+
+```
+require 'html-proofer'
+
+task :test do
+  sh "bundle exec jekyll build"
+  options = { :assume_extension => '.html' }
+  HTMLProofer.check_directory('_site/', options).run
+end
+```
+
+Und kann den Link Checker aufrufen:
+
+```bash
+bundle exec rake test
+```
+
+Eventuell muss man die Bilder Links nochmal anpassen. Da hilft meist eine Regex im _posts Verzeichnis
+
+```bash
+sed -i 's/blog\/media/..\/..\/..\/images/g' *.md
+```
