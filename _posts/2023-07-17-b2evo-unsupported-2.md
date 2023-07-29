@@ -167,3 +167,9 @@ Eventuell muss man die Bilder Links nochmal anpassen. Da hilft meist eine Regex 
 ```bash
 sed -i 's/blog\/media/..\/..\/..\/images/g' *.md
 ```
+
+Und einige Sonderzeichen
+
+```bash
+find . -type f -print0| xargs -0 sed -i 's/\&amp;/\&/g'
+```
