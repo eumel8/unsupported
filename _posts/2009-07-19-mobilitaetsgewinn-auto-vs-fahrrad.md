@@ -17,6 +17,6 @@ Stattdessen haben wir uns mal auf dem Markt der Elektro-Fahrraeder umgesehen. Es
 Genauer informiert haben wir uns dann bei Fahrrad Denfeld in Bad Homburg <a href="http://www.denfeld.zeg.de/">(http://www.denfeld.zeg.de/)</a>. Keine Ahnung, wieviel tausend Fahrraeder dort im Showroom stehen, aber E-Bikes kann man von 5 verschiedenen Herstellern einfach ausprobieren. Also nicht so wie im VW-Autohaus, wo ich maximal ein paar VWs ausprobieren koennte wenn ichs denn koennte - Nein, bei Fahrrad Denfeld gibt es nicht DIE Fahrradmarke. Mehrere Modelle von verschiedenen Marken stehen zum Ausprobieren bereit. Die kann man alle sofort in der steilen Umgegend des Fahrradgeschaefts probefahren und wird vom ueberaus freundlichen Fachpersonal kompetent beraten. 
 Entschieden hab ich mich fuer das Diamant Zouma Sport E. Nicht etwa aus Ostalgiegruenden, sondern weil es das E-Bike mit dem meisten Sprouts war und ausserdem bei Talfahrten ueber eine Rueckspeisung verfuegt. Schaun wir mal:
 
-<div class="image_block"><img src="http://blog.eumelnet.de/blogs/media/blogs/blog/zoumae.jpg" alt="" title="" width="300" height="225" /></div> 
+<img src="/images/zoumae.jpg" alt="" title="" width="300" height="225" />
 
-Der <a href="http://blog.eumelnet.de/blogs/media/users/eumel/DENFELD.jpg">Preis</a> ist fuer ein Fahrrad schon ordentlich, jedoch ist die Fahrt zur Arbeit trotzdem billiger als mit Auto und der Sportfaktor bleibt ja trotz eingebauten Rueckenwind nicht ganz auf der Strecke.
+Der <a href="/images/DENFELD.jpg">Preis</a> ist fuer ein Fahrrad schon ordentlich, jedoch ist die Fahrt zur Arbeit trotzdem billiger als mit Auto und der Sportfaktor bleibt ja trotz eingebauten Rueckenwind nicht ganz auf der Strecke.

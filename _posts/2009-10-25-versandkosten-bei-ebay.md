@@ -37,8 +37,8 @@ Daran schuld soll die Volksauktion sein - alle Auktionen mit 1 Euro Startpreis k
 Was bleibt ist also die fuer mich als Verkaeufer entstehenden Mehrkosten an den Kunden weiterzugeben. Als Privatmann wird man gezwungen, noch Business-Case-Berechnungen fuer seine Ebay-Auktionen anzustellen. 
 Dazu haben wir jetzt folgende Berechnungsgrundlagen entwickelt: :!:
 
-<a href="http://blog.eumelnet.de/blogs/media/blogs/blog/Ebaygebuehren.pdf" title="">Ebaygebuehren.pdf</a> 
-<a href="http://blog.eumelnet.de/blogs/media/blogs/blog/Ebaygebuehren.xls" title="">Ebaygebuehren.xls</a> 
+<a href="/images/Ebaygebuehren.pdf" title="">Ebaygebuehren.pdf</a> 
+<a href="/images/Ebaygebuehren.xls" title="">Ebaygebuehren.xls</a> 
 
 Fuer die gebrauchte Musik-CD errechnet man also im Vorfeld einen zu erzielenden Preis, der sich aus Ebay-Gebuehren, Provision und Versandkosten zusammensetzt und bekommt dann am Ende den erforderlichen Startpreis, der natuerlich hoeher als 1 Euro liegt und somit Ebay mehr Gewinne einspielt. Ich will aber an dieser Stelle nicht unbedingt von Gewinn reden, denn meine Gewinnerwartung stellt sich wenigstens so hoch, dass ich am Ende einer Auktion mindestens bei +/- 0 rauskomme.
 

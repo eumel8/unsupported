@@ -8,6 +8,6 @@ author: eumel8
 ---
 
 Vodafone Muenchen Spezial
-<div class="image_block"><img src="http://blog.eumelnet.de/blogs/media/blogs/blog/vodafone.jpg" alt="" title="" width="320" height="240" /></div> 
+<img src="/images/vodafone.jpg" alt="" title="" width="320" height="240" />
 
 Nicht unbedingt unsupported. Die Bayern haben es einfach gut.

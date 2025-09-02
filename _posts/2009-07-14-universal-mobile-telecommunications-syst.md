@@ -9,7 +9,7 @@ author: eumel8
 
 UMTS - der letzte Schrei der Datenkommunikation im Internet. Das "Ueberall-Internet" wird es oft genannt. Ueberall? Mitnichten. Sehr oft schleppt man dieses schnufflige Teil hier mit sich:
 
-<div class="image_block"><img src="http://blog.eumelnet.de/blogs/media/blogs/blog/vodafone-umts-stick.jpg" alt="" title="" width="400" height="239" /></div> 
+<img src="/images/vodafone-umts-stick.jpg" alt="" title="" width="400" height="239" />
 
 Es wird an einen USB-Port eines Laptops angeschlossen, installiert automatisch ein bischen Software, startet sich selbstaendig, PIN der SIM-Karte eingeben, fertig. Unter guenstigsten Vorraussetzungen ist man mit 7,2 MBit/sec online - schneller als DSL6000 zu Hause.
 Sehr oft gibts aber gar kein UMTS sondern nur GPRS, was bischen schneller ist als ISDN und fuer heutiges Volumen mancher Webseiten mal so ueberhaupt nicht zu gebrauchen ist.

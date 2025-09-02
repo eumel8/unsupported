@@ -9,6 +9,6 @@ author: eumel8
 
 Selbstanzeige: Businesskasper sind ja prinzipiell immer noch unsupported
 
-<div class="image_block"><img src="http://blog.eumelnet.de/blogs/media/blogs/blog/BLACKBER.jpg" alt="" title="" width="320" height="240" /></div> 
+<img src="/images/BLACKBER.jpg" alt="" title="" width="320" height="240" />
 
 http://www.youtube.com/watch?v=MavllwOuVI0

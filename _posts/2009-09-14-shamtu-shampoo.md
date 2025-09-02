@@ -9,7 +9,7 @@ author: eumel8
 
 Der Erwerb eines sensationellen Konsumprodukts ist mir heute im <a href="http://www.real.de">Gross-Einzelhandel</a> gelungen:
 
-<div class="image_block"><img src="http://blog.eumelnet.de/blogs/media/blogs/blog/HERBAL_E.jpg" alt="" title="" width="300" height="400" /></div> 
+<img src="/images/HERBAL_E.jpg" alt="" title="" width="300" height="400" />
 
 Ein Haarwaschmittel was reinigt! (sog. Shampoo)
 Es ist ein Reinigungs-Shampoo, was Haare strahlend sauber waescht. Wahnsinn! 

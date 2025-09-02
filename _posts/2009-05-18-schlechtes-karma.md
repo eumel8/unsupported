@@ -11,7 +11,7 @@ In Bad Homburg wurde auf Wunsch der Amtsinhaberin die Oberbuergermeister-Wahl 20
 
 Ergebnis:
 
-<div class="image_block"><img src="http://blog.eumelnet.de/blogs/media/blogs/blog/OB_HG.jpg" alt="" title="" width="550" height="275" /></div> 
+<img src="/images/OB_HG.jpg" alt="" title="" width="550" height="275" />
 
 Die Amtsinhaberin verliert
 Die Wahlbeteiligung lag bei 45,8 %

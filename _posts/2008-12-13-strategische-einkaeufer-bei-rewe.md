@@ -10,4 +10,4 @@ author: eumel8
 Diese Berufsbezeichnung gibts wirklich. Aber es kann mit dem Anspruch nicht weit her sein. 
 Mitte August die Gaenge mit Weihnachtsstollen vollstellen und dann eine Woche vor Weihnachten nicht mal mehr eine Sorte Stollen anbieten koennen. Frechheit!
 
-<div class="image_block"><img src="http://blog.eumelnet.de/blogs/media/blogs/blog/christstollen.jpg" alt="" title="" width="300" height="150" /></div>
+<img src="/images/christstollen.jpg" alt="" title="" width="300" height="150" />

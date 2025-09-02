@@ -11,4 +11,4 @@ Allzu viele Steckersysteme fuer Strom gibt es auf der Welt ja nicht. Vielleicht 
 Weniger tolerant sind die Steckersysteme. Um Geraete zwischen Westeuropa und Amerika betreiben zu koennen, bedarf es Adapter. Aus 2 flachen Steckstiften werden 2 runde gemacht.
 Eigentlich nicht weiter kompliziert. Leider sind die runden Steckstifte jetzt aber doch nicht so rund wie der Hersteller des Adapters glaubte bzw. hat dieser die letzten Jahre etwas abgenommen. In Folge dessen wackelt der Stecker im Adapter wie Laemmerschwanz und die Stromzufuhr ist unterbrochen. Nur wenn man den Stecker mit Pflaster fixiert oder alles behutsam zurechtfriemelt hat man Glueck und kann sein Geraet am anderen Stromsystem betreiben. Vielleicht sinds aber doch ein paar Volt zuviel und ein paar Hertz zu wenig. Dann hat man schlicht und ergreifend Pech gehabt!
 
-<div class="image_block"><img src="http://blog.eumelnet.de/blogs/media/blogs/blog/ADAPTER.jpg" alt="" title="" width="300" height="225" /></div>
+<img src="/images/ADAPTER.jpg" alt="" title="" width="300" height="225" />

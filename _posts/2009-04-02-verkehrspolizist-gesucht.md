@@ -14,4 +14,4 @@ Erst unlaengst machten <a href="http://www.28maerz.de/startseite/">an einem Sams
 Naja, mag sich jeder selbst ein Bild davon machen. Der Rueckweg vom Events war wie gesagt nicht moeglich, weil die Polizei aus Erfurt mal spontan ein paar Strassen abgesperrt hat.
 Leider hat man versaeumt, die darauf fahrenden Autos mal irgendwie umzuleiten oder wegfahren zu lassen, bevor der Demonstrationszug vorbeischeppert. So standen alle Autofahrer erstmal ziemlich genervt dumm rum. Dafuer wurde eines der Demonstrationsziele (Stoppt den Klimawandel) ziemlich direkt, aber leider auch nur ziemlich punktuell erreicht.
 
-<div class="image_block"><img src="http://blog.eumelnet.de/blogs/media/blogs/blog/polizist87068.jpg" alt="" title="" width="200" height="370" /></div>
+<img src="/images/polizist87068.jpg" alt="" title="" width="200" height="370" />

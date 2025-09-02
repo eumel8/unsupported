@@ -36,7 +36,7 @@ Gehoert es zum Geist guter Nachbarschaft, sich in die inneren Angelegenheiten an
 <p>
 Polen gedeiht derweilen praechtig:
 
-<img src="/media/quick-uploads/p563/bip_polen.png" width="585" height="386"/>
+<img src="/mages/quick-uploads/p563/bip_polen.png" width="585" height="386"/>
 
 In den letzten beiden Jahren erreichte es Wachstumsraten ueber 3%. Da koennen wir oder unsere anderen Nachbarlaender nur von traeumen. Wenn man sich vor Ort umschaut, wird ueberall gebaut, es entstehen schmucke Einfamilienhaeuschen mit schicken Zaeunen drumrum. Die Strassen sind in Ordnung, Internet ist ueberall verfuegbar. Wunderschoene Landschaften. Lokale Koestlichkeiten. Polen geht einfach seinen Weg.
 </p>

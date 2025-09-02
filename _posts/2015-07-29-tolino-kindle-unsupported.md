@@ -9,7 +9,7 @@ author: eumel8
 
 <p>Unlaengst stellte sich das Problem, dass man sich mit der Anschaffung des Tolino den Amazon Marktplatz als Kaufplattform fuer eBooks verwehrt hat, weil dieser nur elektronische Buecher im hauseigenen Kindle-Format anbietet. Klar, warum hat man nicht gleich einen Kindle gekauft. Weil Tolino das bessere Produkt ist? Um auch anderen Anbietern eine Chance zu geben?</p>
 <!-- more -->
-<p><a id="link_90" class="cboxElement" href="/blogs/media/blogs/blog/quick-uploads/p550/ereader1.jpg?mtime=1438159124" rel="lightbox[o550]">[image:90:]</a></p>
+<p><a id="link_90" class="cboxElement" href="/images/quick-uploads/p550/ereader1.jpg?mtime=1438159124" rel="lightbox[o550]">[image:90:]</a></p>
 <p>[teaserbreak]Nun ja, meist hat schon jemand anderes auf diesem Planeten dasselbe Problem gehabt und natuerlich gibt es dafuer eine Loesung. Erstmal muessen wir das gewuenschte Buch bei www.amazon.de kaufen.</p>
 <p>Danach installieren wir uns den Kindle-PC-Reader. Nach Eingabe der Accountdaten sollte sich die Bibliothek vom Amazon Shop und dem PC-Reader syncen. Zu erkennen ist das, indem man mit dem Lesen des Buches am PC beginnen koennte.</p>
 <p>[image:86:]</p>
@@ -23,8 +23,6 @@ author: eumel8
 <p>[image:96:]</p>
 <p>Ueber den Menuepunkt Konvertieren/Einzelne Datei konvertieren bekommen wir eine weitere Maske mit einer Menge Optionen zum Konvertieren angezeigt. Fuer uns reicht es aber, wenn das Ausgabeformat "epub" ist. Mit dem Button "OK" gehts los, das Ebook wird von azw nach epub konvertiert. Praktischerweise ist auch auch Link hinterlegt, in welchem Dateiordner wir die epub Datei finden koennen.</p>
 <p>Nun verbinden wir den Tolino mit unserem PC und kopieren die frisch gewonnene epub Datei auf den Tolino-Speicher. Nach dem Trennen des USB-Kabels gehoert der Speicher wieder zum Tolino und das neue Ebook sollte dort gefunden werden:</p>
-<p>[image:106:]</p>
-<p>[image:108:]</p>
 <p>Fallstricke:</p>
 <ul>
 <li>Fehlermeldung "No Key Found". In einigen aelteren Versionen von Calibre oder dem DeDRM-Plugin gab es eine Fehlermeldung, obwohl die Konvertierung erfolgreich abgeschlossen wurde. Also am besten immer die neuesten Versionen von den Originalwebseiten verwenden. Es gibt auch DeDRM-Dienste, die fuers Konvertieren noch Geld verlangen. Das muss man sich eigentlich nicht antun</li>

@@ -13,7 +13,7 @@ Dann kam die Zeit der Videorecorder. Es gab 2-3 heimgebraeuchliche Standards, wa
 
 Das war also frueher. Ueber 250 Videokassetten umfasste meine Sammlung, die ich unlaengst aufgeloest habe. Es gab dabei so geniale Geraete wie den Grundig GV 250, (hier ist noch ein Bild)
 
-<div class="image_block"><img src="http://blog.eumelnet.de/blogs/media/blogs/blog/gv250.jpg" alt="" title="" width="320" height="240" /></div> 
+<img src="/images/gv250.jpg" alt="" title="" width="320" height="240" />
 
 der ein eingebautes Archiviersystem hat und so grafisch Titel und Filmlaenge pro Kassette anzeigte und einen Film auch halbautomatisch aus dem Archiv heranspulte (klar, die Kassette musste man schon noch selbst einlegen). 
 
@@ -27,4 +27,4 @@ Da man also nicht in der Lage ist, ein Programm zur rechten Zeit auszustrahlen, 
 Ein Hoch auf solche Dienste wie http://www.onlinetvrecorder.com/
 An der Legalitaet des Dienstes wird zwar gezweifelt, aber was soll verboten daran sein, das aktuelle Fernsehprogramm aufzunehmen und ins Internet zu stellen. Man kann ueber einen Account seine Sendungen programmieren und danach als Divx-Datei herunterladen und anschauen. Schlaue Leute schneiden dann die Werbung raus und stellen die Schnittlisten oeffentlich zur Verfuegung. Der naechste kann sich also die Arbeit sparen, laedt bloss noch den Film herunter, laesst die Schnittliste drueberlaufen und hat den Film als Divx ohne Werbung. Okay, es ist dann immer noch "nur der Film aus dem Fernsehen", meist nur in Stereo in FSK16-Fassung, aber immerhin. Als naechstes versucht man uns einzureden, wir braeuchten BlueRay, um all die Filme, die wir von der VHS noch kennen, nochmal zu kaufen. Nee Nee, da bleib ich lieber beim Spinett.
 
-<div class="image_block"><img src="http://blog.eumelnet.de/blogs/media/blogs/blog/blue_piano.jpg" alt="" title="" width="320" height="240" /></div>
+<img src="/images/blue_piano.jpg" alt="" title="" width="320" height="240" />

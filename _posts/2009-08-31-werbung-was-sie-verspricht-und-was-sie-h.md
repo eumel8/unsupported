@@ -9,4 +9,4 @@ author: eumel8
 
 Ein etwas aelteres Szenario als es in Deutschland sowas wie eine Finanzkrise gab:
 
-<div class="image_block"><a href="http://blog.eumelnet.de/blogs/media/blogs/blog/unweb/FORTIS.jpg"><img src="http://blog.eumelnet.de/blogs/media/blogs/blog/unweb/FORTISb.jpg" alt="" title="" width="450" height="336" /></a></div>
+<img src="/images/FORTISb.jpg" alt="" title="" width="450" height="336" />

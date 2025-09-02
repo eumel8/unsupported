@@ -38,6 +38,5 @@ author: eumel8
 <p style="text-align: left;">Für den einmaligen Gebrauch vielleicht etwas teuer, aber unterm Strich doch der Kauftipp schlechthin.</p>
 <p style="text-align: left;">Internet gibts ansonsten auch noch im Supermarkt. Albert Heijn verkauft seit letzter Woche eine Tüte Internet für 2,25 Euro. Zielgruppe sind iPad-Nutzer oder Leute, die für 25 Euro noch den Surfstick dazukaufen. Nicht die schlechteste Idee, falls man wieder mal im Ausland Internet brauch :-)</p>
 <p style="text-align: left;">Gespannt sein kann man, ob und wann man die SIM-Karten von Vodafone UK, Vodafone DE und jetzt auch Vodafone NL mal irgendwie zusammenbringen kann. Global betrachtet wandert das Geld ebend doch ins selbe Sparschwein :p</p>
-<div class="image_block"><a href="/blogs/media/blogs/blog/IMAG0018.jpg?mtime=1298569716"><img src="/blogs/media/blogs/blog/IMAG0018.jpg?mtime=1298569716" alt="" width="429" height="709" /></a></div>
-<div class="image_block"></div>
+<img src="/images/IMAG0018.jpg" alt="" width="429" height="709" />
 <div class="image_block">Achso: Eine Legitimiation zum Kauf einer Prepaid-Karte ist im Ausland nicht notwendig, auf manchen Karten ist noch nicht einmal eine PIN. Nach Verbrauch des Freiguthabens kann man natürlich mit EC/Kreditkarte wieder aufladen.</div>

@@ -53,4 +53,4 @@ Liest sich das vielleicht etwas komisch an? Das sind alles Aussagen, runtergerat
 
 PS: Tatsaechlich war es naechsten Tag bedeckt bei 0 Grad. 
 PPS: Eine bekannte <a href="http://www.tagesspiegel.de/">Tageszeitung</a> praezesiert sogar: -0 Grad
-<div class="image_block"><a href="http://blog.eumelnet.de/blogs/media/blogs/blog/0grad.gif?mtime=1417271113" id="f674"><img alt="" src="http://blog.eumelnet.de/blogs/media/blogs/blog/0grad.gif?mtime=1417271113" width="211" height="81" /></a></div>
+<img alt="" src="/images/0grad.gif" width="211" height="81" />
